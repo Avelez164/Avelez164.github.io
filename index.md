@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Antonio Velez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+This is my home page! My name is Antonio Velez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/).
 
 ## Computer Science Projects
 
